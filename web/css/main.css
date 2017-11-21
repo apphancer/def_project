@@ -1,0 +1,22 @@
+body {
+    padding: 50px;
+    margin: 0 auto;
+}
+.container {
+    max-width: 1028px;
+}
+
+.colour-selector div {
+    height: 50px;
+    border: 1px solid grey;
+}
+
+.colour-selector div.red {
+    background-color: darkred;
+}
+.colour-selector div.blue {
+    background-color: darkblue;
+}
+.colour-selector div.grey {
+    background-color: grey;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "apphancer/defshop",
+  "description": "",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Martin Sarsini",
+      "email": "martin@apphancer.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4"
+  }
+}
